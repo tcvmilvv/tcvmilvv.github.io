@@ -39,6 +39,12 @@ window.PERFIL = {
       "valor": "linkedin.com/in/cvmi",
       "url": "https://www.linkedin.com/in/cvmi/",
       "icone": "img/icon-linkedin.svg"
+    },
+    {
+      "rotulo": "X",
+      "valor": "@cvmilvt",
+      "url": "https://x.com/cvmilvt",
+      "icone": "img/icon-x.svg"
     }
   ],
   "atualizado": "November 2026"
