@@ -75,6 +75,14 @@ window.ILUSTRACOES = [
     "imagem": "ilustracoes/zika-blueprint-poster.jpg",
     "largura": 1400,
     "altura": 1863
+  },
+  {
+    "titulo": "Coordination number calculation",
+    "descricao": "Schematic representation of the CN calculation using ComplexMixtures.jl. (a) Selection of a reference solute (viral envelope) and identification of neighboring elements (water molecules) in three-dimensional space. (b) Measurement of the distances ri​ between each atom of the solvent and each protein atom. (c) All with at least one atom within rc​ are counted. In this example, five molecules satisfy the condition ri ≤ rc​, resulting in CN = 5 at rc.
+",
+    "imagem": "ilustracoes/CN-calculation.png",
+    "largura": 2469,
+    "altura": 938
   }
 ];
 
