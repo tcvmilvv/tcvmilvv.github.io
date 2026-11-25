@@ -13,7 +13,7 @@ window.PERFIL = {
   "links": [
     {
       "rotulo": "Lattes",
-      "url": "http://lattes.cnpq.br/1933195871728569",
+      "url": "https://busca-cv-lattes.cnpq.br/curriculo/1933195871728569",
       "icone": "img/icon-lattes.svg"
     },
     {
