@@ -57,7 +57,7 @@ window.PERFIL = {
 window.ILUSTRACOES = [
   {
     "titulo": "Zika virion membrane architecture",
-    "descricao": "Cutaway of the coarse-grained Zika virion envelope, from the full particle down to the lipid bilayer and the radial density profile of head, glycerol and tail beads.",
+    "descricao": "Cutaway of the coarse-grained Zika virion envelope, from the full particle down to the lipid bilayer and the minimum-distance density profile of head, glycerol and tail beads.",
     "imagem": "ilustracoes/virus-membrane-zoom.png",
     "largura": 1838,
     "altura": 706
