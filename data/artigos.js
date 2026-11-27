@@ -85,7 +85,7 @@ window.ILUSTRACOES = [
   },
   {
     "titulo": "Mapping the Molecular Landscape of Zika Virus",
-    "descricao": "Inspired by geographic maps, this cover portrays the Zika virus (ZIKV) as a molecular landscape waiting to be explored. The illustration depicts the spatial organization of the viral envelope proteins, with chains K (green), M (orange), and O (yellow) forming distinct molecular territories across the virion. The surrounding WT4 water molecules evoke the oceans and landscapes that frame geographical maps, emphasizing the importance of the aqueous environment in shaping the molecular microenvironment of the viral particle.",
+    "descricao": "Protein chains form distinct molecular territories across the virion, while the surrounding WT4 water molecules evoke the oceans and natural features that frame geographical maps.",
     "imagem": "ilustracoes/zikv-map.png",
     "largura": 1400,
     "altura": 1863
