@@ -78,7 +78,7 @@ window.ILUSTRACOES = [
   },
   {
     "titulo": "Coordination number calculation",
-    "descricao": "Schematic representation of the CN calculation using ComplexMixtures.jl. (a) Selection of a reference solute (viral envelope) and identification of neighboring elements (water molecules) in three-dimensional space. (b) Measurement of the distances ri between each atom of the solvent and each protein atom. (c) All with at least one atom within rc are counted. In this example, five molecules satisfy the condition ri ≤ rc, resulting in CN = 5 at rc.",
+    "descricao": "Schematic of the coordination number (CN) calculation in ComplexMixtures.jl, illustrating solvent–solute distance measurements and the identification of neighboring water molecules within the cutoff distance (\(r_c\)). Five molecules satisfy the criterion, yielding CN = 5.",
     "imagem": "ilustracoes/CN-calculation.png",
     "largura": 2469,
     "altura": 938
