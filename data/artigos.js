@@ -89,7 +89,14 @@ window.ILUSTRACOES = [
     "imagem": "ilustracoes/zikv-map.png",
     "largura": 1400,
     "altura": 1863
-  }
+  },
+  {
+    "titulo": "Disassemble of the 5-fold axis.",
+    "descricao": "Environment-dependent structural disassembly of the viral surface along the fivefold symmetry axis.",
+    "imagem": "ilustracoes/disassembling.png",
+    "largura": 1602,
+    "altura": 1509
+  },
 ];
 
 // Software: tools and packages you develop.
