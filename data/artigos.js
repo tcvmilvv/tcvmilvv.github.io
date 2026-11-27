@@ -78,7 +78,7 @@ window.ILUSTRACOES = [
   },
   {
     "titulo": "Coordination number calculation",
-    "descricao": "Schematic of the coordination number (CN) calculation in ComplexMixtures.jl, illustrating solvent–solute distance measurements and the identification of neighboring water molecules within the cutoff distance (\(r_c\)). Five molecules satisfy the criterion, yielding CN = 5.",
+    "descricao": "Schematic of the coordination number (CN) calculation in ComplexMixtures.jl, illustrating solvent–solute distance measurements and the identification of neighboring water molecules within the cutoff distance (rc). Five molecules satisfy the criterion, yielding CN = 5.",
     "imagem": "ilustracoes/CN-calculation.png",
     "largura": 2469,
     "altura": 938
